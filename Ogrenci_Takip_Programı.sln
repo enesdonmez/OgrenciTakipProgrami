@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ogrenci_Takip_Programı", "Ogrenci_Takip_Programı\Ogrenci_Takip_Programı.csproj", "{4AD2A4AB-FE5E-481F-87A6-ACCDFF1B885A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Öğrenci Takip Programı", "Öğrenci Takip Programı\Öğrenci Takip Programı.vdproj", "{DF7944EC-6375-4137-8A4B-C4590AA45D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD2A4AB-FE5E-481F-87A6-ACCDFF1B885A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD2A4AB-FE5E-481F-87A6-ACCDFF1B885A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD2A4AB-FE5E-481F-87A6-ACCDFF1B885A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD2A4AB-FE5E-481F-87A6-ACCDFF1B885A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7944EC-6375-4137-8A4B-C4590AA45D53}.Debug|Any CPU.ActiveCfg = Debug
+		{DF7944EC-6375-4137-8A4B-C4590AA45D53}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A41BD8D-B55B-4007-BA25-8E08C1422D72}
+	EndGlobalSection
+EndGlobal
